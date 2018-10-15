@@ -1,0 +1,2 @@
+LevelID,MapId,BackgroudId,LimitLength,RoleAnimationName,IdleAnimationName,WinAnimationName,LoseAnimationName,RoleX,RoleY,StarScore,Item1(type|imageName|scaleX|scaleY|positionX|positionY|rotationX|rotationY|isPhysical),Item2,Item3,Item4,Item5,Item6
+1,2,0,6,1+2+3+4,
